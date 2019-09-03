@@ -1,4 +1,6 @@
 # Rapid7-Report-Scraper
+Note: Present text files were stripped of confidential information and numbers were completely randomized.
+
 Program for scraping vulnerability metrics from Rapid7 custom reports for previous and current months and comparing them.
 
 1.	Install latest version of Python 3.7.4.
