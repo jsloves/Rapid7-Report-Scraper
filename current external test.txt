@@ -1,0 +1,19 @@
+
+
+There were 2,004 vulnerabilities found during this scan. Of these, 678 were 
+  critical vulnerabilities. Critical vulnerabilities require immediate 
+  attention. They are relatively easy for attackers to exploit and may provide 
+  them with full control of the affected systems. 560 vulnerabilities were 
+  severe. Severe vulnerabilities are often harder to exploit and may not provide
+  the same access to affected systems. There were 277 moderate vulnerabilities 
+  discovered. These often provide information to attackers that may assist them 
+  in mounting subsequent attacks on your network. These should also be fixed in 
+  a timely manner, but are not as urgent as the other vulnerabilities. 
+
+  Critical vulnerabilities were found to exist on 16 of the systems, making them
+  most susceptible to attack. 67 systems were found to have severe 
+  vulnerabilities. Moderate vulnerabilities were found on 80 systems. No 
+  vulnerabilities were found on the remaining 42 systems.
+
+ 
+
