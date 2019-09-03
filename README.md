@@ -7,4 +7,4 @@ Program for scraping vulnerability metrics from Rapid7 custom reports for previo
 
 3.	Move the generated text file into the folder with the script.
 
-4.	Run the corresponding script by simply double clicking on it. Simply copy/paste the results into the spreadsheet present in the folder.
+4.	Run the corresponding script by simply double clicking on it. Simply copy/paste the results wherever you want, they are tabulated.
